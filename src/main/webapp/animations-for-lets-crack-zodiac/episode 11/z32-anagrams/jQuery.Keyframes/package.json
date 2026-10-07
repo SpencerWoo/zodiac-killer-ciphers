@@ -30,7 +30,7 @@
   "homepage": "https://github.com/Keyframes/jQuery.Keyframes",
   "dependencies": {
     "@keyframes/core": "^2.0.2",
-    "jquery": "^3.4.1"
+    "jquery": "^4.0.0"
   },
   "devDependencies": {
     "@babel/cli": "^7.7.0",
@@ -38,7 +38,7 @@
     "@babel/preset-env": "^7.7.1",
     "babelify": "^10.0.0",
     "browserify": "^16.5.0",
-    "eslint": "^6.6.0",
+    "eslint": "^10.12.0",
     "eslint-config-airbnb": "^18.0.1",
     "eslint-plugin-import": "^2.18.2",
     "eslint-plugin-jsx-a11y": "^6.2.3",
